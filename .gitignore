@@ -1,0 +1,10 @@
+
+# Python virtual environment
+venv_transformer/
+
+# Jupyter auto-save dirs
+**/.ipynb_checkpoints/
+
+# macOS Finder files
+**/.DS_Store
+
