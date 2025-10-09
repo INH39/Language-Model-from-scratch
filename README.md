@@ -1,6 +1,6 @@
 # Character-Level Transformer (from scratch)
 
-A character-level language model built from scratch, inspired by Andrej Karpathy’s “Neural Networks: Zero to Hero” playlist. The goal is to deepen my understanding of language models and deep-learning internals.
+A character-level language model built from scratch, inspired by Andrej Karpathy’s notes on neural networks and the paper "Attention is all you need". The goal is to deepen my understanding of language models and deep-learning internals.
 
 ## Results
 - **Parameters:** 6 298 972  
